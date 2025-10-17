@@ -24,8 +24,7 @@ CSS3
 LocalStorage API
 
 ## Live Demo
-
-Check out the live version here: notes-app-tau-blue-22.vercel.app
+https://notes-app-tau-blue-22.vercel.app/
 
 ## How to Run
 
